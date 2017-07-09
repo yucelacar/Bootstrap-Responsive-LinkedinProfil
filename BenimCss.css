@@ -1,0 +1,244 @@
+﻿#menuCubugu {
+    height: 52px;
+    background-color: #283E4A;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+.menuitem {
+    margin-top: 10px;
+}
+
+#aOturumAc {
+    color: white;
+    padding-top: 15px;
+    text-decoration: none;
+    background-color: #283E4A;
+}
+
+    #aOturumAc:hover {
+        text-decoration: underline;
+        border: 0px;
+    }
+
+#aHemenKatil {
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+    background-color: #283E4A;
+    
+}
+
+    #aHemenKatil:hover {
+        border: 2px solid white;
+    }
+
+#GovdeSol {
+    height: auto;
+     border-top:5px solid #DFDFDF;
+}
+
+#GovdeSag {
+ 
+    height: auto;
+    margin-left: 5px;
+}
+
+#Ana {
+    border-top: 50px;
+    height: auto;
+    background-color: #DFDFDF;
+}
+
+#bosluk {
+    height: 100px;
+}
+
+#buton {
+    border: 0px;
+}
+
+#Profile {
+    height: auto;
+    background-color: white;
+    padding: 0px;
+}
+
+#profilfoto {
+    margin-top: 20px;
+    margin-left: 0px;
+    padding: 0px;
+    float: left;
+}
+
+#isim {
+    font-size: 27px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #000;
+}
+
+.headline {
+    padding: 1px 0;
+    font-size: 100%;
+    line-height: 20px;
+    color: #333;
+    font-weight: normal;
+}
+
+#tablom {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 0px;
+    height:auto;
+    margin-bottom:5px;
+    margin-top:5px;
+}
+
+#arkaplan {
+    background: linear-gradient(to right, rgba(0,140,201,0.9),rgba(0,158,165,0.9)),url(/sc/h/cbzvh65ro0gik9g9fujjyamlx) no-repeat center;
+    height: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom:10px;
+    padding-bottom:10px;
+    color: white;
+}
+
+.Blok {
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom:5px;
+    height: auto;
+    margin-top: 10px;    
+}
+
+.BasBaslık {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 18px;
+    color: #434649;
+    
+  padding:15px;
+    
+}
+
+.baslık {
+    height: auto;
+    margin-top: 10px;
+    font:medium;
+    margin-bottom:10px;
+
+}
+
+.Aciklama {
+    margin-top: 2px;
+    line-height: 17px;
+    color: #333;
+    font-weight: normal;
+        font-size:small;
+    height: auto;
+    margin-bottom:5px;
+}
+
+.Baslıktarih {
+ 
+    font-size:small;
+    line-height: 14px;
+    color: #66696a;
+    margin-top: -10px;
+    margin-bottom:5px;
+}
+
+.aralik{
+    margin-top: 0px;
+    margin-bottom: 4px;
+  
+}
+
+.ekblok{
+  
+    margin-top: 1px;
+}
+
+#yeteneklerim{
+    height: auto;
+    margin-top: 10px;
+    margin-left:-5px;
+    margin-bottom:15px;
+}
+
+.aYetenekler{
+    text-align: center;
+    background-color: #F1F1F1;
+    text-decoration: none;   
+    color: #333;
+    border:0px;
+}
+.aYetenekler:hover{
+    background-color:dodgerblue;
+    color:white;    
+}
+.description{
+    font:small;
+    margin-bottom:5px;
+}
+.grpdiv{
+    height:auto;
+}
+.gruplink{
+      font-size:12px;
+    text-decoration:none;
+    color:black;
+    margin-bottom:5px;
+}
+.gruplink:hover{
+    color:blue;
+       text-decoration:none;
+}
+.grupicon{
+    height:50px;
+    width:50px; 
+    margin-top:5px;    
+}
+#btnwarning{
+    background-color:yellow;
+    color:black;
+    margin-left:10px;
+    margin-bottom:10px;
+}
+
+.yanBaslik{
+    font-size:13px;
+    font-weight: bold; 
+    line-height: normal;
+    color:black;    
+  padding:15px;
+
+}
+#bul{
+     background-color: white;
+   padding-left:20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    height: auto;
+    margin-top: 0;  
+    border-top:5px solid #DFDFDF;
+
+}
+.yanBlok{
+        background-color: white;
+      padding-left:20px;
+
+    padding-right: 30px;
+    padding-bottom:10px;
+    height: auto;
+    margin-top: 0; 
+}
